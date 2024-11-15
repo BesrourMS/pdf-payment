@@ -187,5 +187,3 @@ This project is licensed under the MIT License.
 ---
 
 Feel free to contribute to this project or use it for your own purposes. If you have any questions or suggestions, feel free to open an issue or contact me.
-
-```
